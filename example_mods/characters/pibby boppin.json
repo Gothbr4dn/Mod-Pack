@@ -1,0 +1,81 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "sad",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12
+			],
+			"name": "pibby anim idle"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "scared",
+			"indices": [],
+			"name": "pibby anim idle0000"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "danceRight",
+			"indices": [],
+			"name": "pibby anim idle"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "danceLeft",
+			"indices": [],
+			"name": "pibby anim idle"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/pibby anim",
+	"position": [
+		720,
+		470
+	],
+	"healthicon": "gf",
+	"flip_x": false,
+	"healthbar_colors": [
+		140,
+		240,
+		235
+	],
+	"camera_position": [
+		-180,
+		70
+	],
+	"sing_duration": 4,
+	"scale": 0.7
+}

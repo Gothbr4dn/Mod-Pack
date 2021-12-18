@@ -1,0 +1,48 @@
+{
+	"storyName": "Vs Sonic.EXE",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Too-Slow",
+			"Sonic_EXE",
+			[
+				0,
+				0,
+				255
+			]
+		],
+		[
+			"You-Cant-Run",
+			"Sonic_EXEP2",
+			[
+				0,
+				0,
+				255
+			]
+		],
+		[
+			"Triple-Trouble",
+			"Tails",
+			[
+				0,
+				0,
+				0
+			]
+		]
+	],
+	"weekName": "Vs Exetior"
+}

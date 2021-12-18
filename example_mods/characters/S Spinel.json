@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "spinel solo idle"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "spinel solo up"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "spinel solo down"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "spinel solo right"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "spinel solo left"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Spinel solo",
+	"position": [
+		-270,
+		30
+	],
+	"healthicon": "spinel-solo",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		155
+	],
+	"camera_position": [
+		230,
+		330
+	],
+	"sing_duration": 6.1,
+	"scale": 0.6
+}

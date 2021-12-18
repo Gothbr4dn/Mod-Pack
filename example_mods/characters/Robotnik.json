@@ -1,0 +1,164 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle-loop",
+			"fps": 24,
+			"name": "Dad idle dance",
+			"indices": [
+				10,
+				11,
+				12,
+				12
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-9,
+				10
+			],
+			"anim": "singLEFT-loop",
+			"fps": 24,
+			"name": "Dad Sing Note LEFT",
+			"indices": [
+				12,
+				13,
+				14,
+				15
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				27
+			],
+			"anim": "singRIGHT-loop",
+			"fps": 24,
+			"name": "Dad Sing Note RIGHT",
+			"indices": [
+				15,
+				16,
+				17,
+				18
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-6,
+				50
+			],
+			"anim": "singUP-loop",
+			"fps": 24,
+			"name": "Dad Sing Note UP",
+			"indices": [
+				56,
+				57,
+				58,
+				59
+			]
+		},
+		{
+			"offsets": [
+				140,
+				-100
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "WhatYouKnowAboutRollingDownInTheDeep"
+		},
+		{
+			"offsets": [
+				-40,
+				60
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Eggman_Idle"
+		},
+		{
+			"offsets": [
+				95,
+				130
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Eggman_Left"
+		},
+		{
+			"offsets": [
+				-16,
+				-31
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Eggman_Down"
+		},
+		{
+			"offsets": [
+				0,
+				197
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Eggman_Right"
+		},
+		{
+			"offsets": [
+				21,
+				246
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Eggman_Up"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-40,
+				160
+			],
+			"anim": "laugh",
+			"fps": 24,
+			"name": "Eggman_Laugh",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/eggman_soul",
+	"position": [
+		-220,
+		190
+	],
+	"healthicon": "Robotnik",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		135,
+		0
+	],
+	"camera_position": [
+		-100,
+		90
+	],
+	"sing_duration": 6.1,
+	"scale": 0.8
+}

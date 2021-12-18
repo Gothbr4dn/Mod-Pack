@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Shielded steven sings and spinel idle"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Shielded steven sings and spinel left"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Shielded steven sings and spinel up"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Shielded steven sings and spinel down"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Shielded steven sings and spinel right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Shielded steven sings and spinel",
+	"position": [
+		-120,
+		310
+	],
+	"healthicon": "normal-duo",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		115,
+		255
+	],
+	"camera_position": [
+		10,
+		180
+	],
+	"sing_duration": 6.1,
+	"scale": 0.6
+}

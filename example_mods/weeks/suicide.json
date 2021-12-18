@@ -1,0 +1,48 @@
+{
+	"storyName": "The Sights of Hell",
+	"hideFreeplay": false,
+	"weekBackground": "street",
+	"weekBefore": "bonus",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"weekCharacters": [
+		"sadmouse",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Unhappy",
+			"sadmouse",
+			[
+				120,
+				120,
+				120
+			]
+		],
+		[
+			"Happy",
+			"happymouse",
+			[
+				60,
+				60,
+				60
+			]
+		],
+		[
+			"Really Happy",
+			"bipolarmouse",
+			[
+				40,
+				40,
+				40
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Week 1"
+}

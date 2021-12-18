@@ -1,0 +1,221 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-233,
+				-65
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "BF HEY",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				15,
+				18
+			],
+			"anim": "hurt",
+			"fps": 24,
+			"name": "BF hit",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-4,
+				0
+			],
+			"anim": "scared",
+			"fps": 24,
+			"name": "BF idle shaking",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				37,
+				11
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "BF dies",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				37,
+				5
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "BF Dead Loop",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				37,
+				69
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "BF Dead confirm",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				-16
+			],
+			"anim": "dodge",
+			"fps": 24,
+			"name": "boyfriend dodge",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				294,
+				267
+			],
+			"anim": "attack",
+			"fps": 24,
+			"name": "boyfriend attack",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-40,
+				-40
+			],
+			"anim": "pre-attack",
+			"fps": 24,
+			"name": "bf pre attack",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-283,
+				-61
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "SSBF LEFTmiss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-275,
+				-49
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "SSBF DOWNmiss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-294,
+				-53
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "SSBF UPmiss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-274,
+				-48
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "SSBF RIGHTmiss",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				85,
+				50
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "TailsDoll IDLE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				161,
+				49
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "TailsDoll UP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				92,
+				13
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "TailsDoll RIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				86,
+				4
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "TailsDoll LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-20
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "TailsDoll DOWN",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Tails_Doll",
+	"position": [
+		-160,
+		110
+	],
+	"healthicon": "test",
+	"flip_x": false,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		-100,
+		100
+	],
+	"sing_duration": 4,
+	"scale": 0.7
+}

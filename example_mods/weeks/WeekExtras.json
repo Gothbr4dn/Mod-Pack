@@ -1,0 +1,66 @@
+{
+	"songs": [
+		[
+			"Cycles",
+			"LordX",
+			[
+				20,
+				60,
+				133
+			]
+		],
+		[
+			"Sunshine",
+			"",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Chaos",
+			"FleetwaySuperSonic",
+			[
+				255,
+				255,
+				0
+			]
+		],
+		[
+			"Milk",
+			"Sunky",
+			[
+				0,
+				0,
+				155
+			]
+		],
+		[
+			"Too-Fest",
+			"Sanic",
+			[
+				0,
+				0,
+				175
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"storyName": "Extra Week!",
+	"weekName": "Extra Week!",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

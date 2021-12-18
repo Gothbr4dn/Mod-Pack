@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="spinel sings and shielded steven.png"><SubTexture name="spinel sings and shielded steven idle0000" x="0" y="0" width="1213" height="943" frameX="0" frameY="0" frameWidth="1213" frameHeight="943" />
+<SubTexture name="spinel sings and shielded steven idle0001" x="1213" y="0" width="1213" height="943" frameX="0" frameY="0" frameWidth="1213" frameHeight="943" />
+<SubTexture name="spinel sings and shielded steven idle0002" x="2426" y="0" width="1213" height="943" frameX="0" frameY="0" frameWidth="1213" frameHeight="943" />
+<SubTexture name="spinel sings and shielded steven idle0003" x="3639" y="0" width="1213" height="943" frameX="0" frameY="0" frameWidth="1213" frameHeight="943" />
+<SubTexture name="spinel sings and shielded steven idle0004" x="4852" y="0" width="1213" height="943" frameX="0" frameY="0" frameWidth="1213" frameHeight="943" />
+<SubTexture name="spinel sings and shielded steven idle0005" x="0" y="943" width="1213" height="943" frameX="0" frameY="0" frameWidth="1213" frameHeight="943" />
+<SubTexture name="spinel sings and shielded steven idle0006" x="1213" y="943" width="1213" height="943" frameX="0" frameY="0" frameWidth="1213" frameHeight="943" />
+<SubTexture name="spinel sings and shielded steven idle0007" x="2426" y="943" width="1213" height="943" frameX="0" frameY="0" frameWidth="1213" frameHeight="943" />
+<SubTexture name="spinel sings and shielded steven idle0008" x="3639" y="943" width="1213" height="943" frameX="0" frameY="0" frameWidth="1213" frameHeight="943" />
+<SubTexture name="spinel sings and shielded steven idle0009" x="4852" y="943" width="1213" height="943" frameX="0" frameY="0" frameWidth="1213" frameHeight="943" />
+<SubTexture name="spinel sings and shielded steven left0000" x="0" y="1886" width="1213" height="943" frameX="0" frameY="0" frameWidth="1213" frameHeight="943" />
+<SubTexture name="spinel sings and shielded steven left0001" x="1213" y="1886" width="1213" height="943" frameX="0" frameY="0" frameWidth="1213" frameHeight="943" />
+<SubTexture name="spinel sings and shielded steven left0002" x="2426" y="1886" width="1213" height="943" frameX="0" frameY="0" frameWidth="1213" frameHeight="943" />
+<SubTexture name="spinel sings and shielded steven left0003" x="3639" y="1886" width="1213" height="943" frameX="0" frameY="0" frameWidth="1213" frameHeight="943" />
+<SubTexture name="spinel sings and shielded steven left0004" x="4852" y="1886" width="1213" height="943" frameX="0" frameY="0" frameWidth="1213" frameHeight="943" />
+<SubTexture name="spinel sings and shielded steven down0000" x="0" y="2829" width="1213" height="943" frameX="0" frameY="0" frameWidth="1213" frameHeight="943" />
+<SubTexture name="spinel sings and shielded steven down0001" x="1213" y="2829" width="1213" height="943" frameX="0" frameY="0" frameWidth="1213" frameHeight="943" />
+<SubTexture name="spinel sings and shielded steven down0002" x="2426" y="2829" width="1213" height="943" frameX="0" frameY="0" frameWidth="1213" frameHeight="943" />
+<SubTexture name="spinel sings and shielded steven down0003" x="3639" y="2829" width="1213" height="943" frameX="0" frameY="0" frameWidth="1213" frameHeight="943" />
+<SubTexture name="spinel sings and shielded steven down0004" x="4852" y="2829" width="1213" height="943" frameX="0" frameY="0" frameWidth="1213" frameHeight="943" />
+<SubTexture name="spinel sings and shielded steven up0000" x="0" y="3772" width="1213" height="943" frameX="0" frameY="0" frameWidth="1213" frameHeight="943" />
+<SubTexture name="spinel sings and shielded steven up0001" x="1213" y="3772" width="1213" height="943" frameX="0" frameY="0" frameWidth="1213" frameHeight="943" />
+<SubTexture name="spinel sings and shielded steven up0002" x="2426" y="3772" width="1213" height="943" frameX="0" frameY="0" frameWidth="1213" frameHeight="943" />
+<SubTexture name="spinel sings and shielded steven up0003" x="3639" y="3772" width="1213" height="943" frameX="0" frameY="0" frameWidth="1213" frameHeight="943" />
+<SubTexture name="spinel sings and shielded steven up0004" x="4852" y="3772" width="1213" height="943" frameX="0" frameY="0" frameWidth="1213" frameHeight="943" />
+<SubTexture name="spinel sings and shielded steven right0000" x="0" y="4715" width="1213" height="943" frameX="0" frameY="0" frameWidth="1213" frameHeight="943" />
+<SubTexture name="spinel sings and shielded steven right0001" x="1213" y="4715" width="1213" height="943" frameX="0" frameY="0" frameWidth="1213" frameHeight="943" />
+<SubTexture name="spinel sings and shielded steven right0002" x="2426" y="4715" width="1213" height="943" frameX="0" frameY="0" frameWidth="1213" frameHeight="943" />
+<SubTexture name="spinel sings and shielded steven right0003" x="3639" y="4715" width="1213" height="943" frameX="0" frameY="0" frameWidth="1213" frameHeight="943" />
+<SubTexture name="spinel sings and shielded steven right0004" x="4852" y="4715" width="1213" height="943" frameX="0" frameY="0" frameWidth="1213" frameHeight="943" />
+</TextureAtlas>

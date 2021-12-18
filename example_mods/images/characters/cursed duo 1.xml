@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="cursed duo 1.png"><SubTexture name="cursed duo 1 idle0000" x="0" y="0" width="1514" height="1273" frameX="0" frameY="0" frameWidth="1514" frameHeight="1273" />
+<SubTexture name="cursed duo 1 idle0001" x="1514" y="0" width="1514" height="1273" frameX="0" frameY="0" frameWidth="1514" frameHeight="1273" />
+<SubTexture name="cursed duo 1 idle0002" x="3028" y="0" width="1514" height="1273" frameX="0" frameY="0" frameWidth="1514" frameHeight="1273" />
+<SubTexture name="cursed duo 1 idle0003" x="4542" y="0" width="1514" height="1273" frameX="0" frameY="0" frameWidth="1514" frameHeight="1273" />
+<SubTexture name="cursed duo 1 idle0004" x="6056" y="0" width="1514" height="1273" frameX="0" frameY="0" frameWidth="1514" frameHeight="1273" />
+<SubTexture name="cursed duo 1 idle0005" x="0" y="1273" width="1514" height="1273" frameX="0" frameY="0" frameWidth="1514" frameHeight="1273" />
+<SubTexture name="cursed duo 1 idle0006" x="1514" y="1273" width="1514" height="1273" frameX="0" frameY="0" frameWidth="1514" frameHeight="1273" />
+<SubTexture name="cursed duo 1 idle0007" x="3028" y="1273" width="1514" height="1273" frameX="0" frameY="0" frameWidth="1514" frameHeight="1273" />
+<SubTexture name="cursed duo 1 idle0008" x="4542" y="1273" width="1514" height="1273" frameX="0" frameY="0" frameWidth="1514" frameHeight="1273" />
+<SubTexture name="cursed duo 1 idle0009" x="6056" y="1273" width="1514" height="1273" frameX="0" frameY="0" frameWidth="1514" frameHeight="1273" />
+<SubTexture name="cursed duo 1 left0000" x="0" y="2546" width="1514" height="1273" frameX="0" frameY="0" frameWidth="1514" frameHeight="1273" />
+<SubTexture name="cursed duo 1 left0001" x="1514" y="2546" width="1514" height="1273" frameX="0" frameY="0" frameWidth="1514" frameHeight="1273" />
+<SubTexture name="cursed duo 1 left0002" x="3028" y="2546" width="1514" height="1273" frameX="0" frameY="0" frameWidth="1514" frameHeight="1273" />
+<SubTexture name="cursed duo 1 left0003" x="4542" y="2546" width="1514" height="1273" frameX="0" frameY="0" frameWidth="1514" frameHeight="1273" />
+<SubTexture name="cursed duo 1 left0004" x="6056" y="2546" width="1514" height="1273" frameX="0" frameY="0" frameWidth="1514" frameHeight="1273" />
+<SubTexture name="cursed duo 1 down0000" x="0" y="3819" width="1514" height="1273" frameX="0" frameY="0" frameWidth="1514" frameHeight="1273" />
+<SubTexture name="cursed duo 1 down0001" x="1514" y="3819" width="1514" height="1273" frameX="0" frameY="0" frameWidth="1514" frameHeight="1273" />
+<SubTexture name="cursed duo 1 down0002" x="3028" y="3819" width="1514" height="1273" frameX="0" frameY="0" frameWidth="1514" frameHeight="1273" />
+<SubTexture name="cursed duo 1 down0003" x="4542" y="3819" width="1514" height="1273" frameX="0" frameY="0" frameWidth="1514" frameHeight="1273" />
+<SubTexture name="cursed duo 1 down0004" x="6056" y="3819" width="1514" height="1273" frameX="0" frameY="0" frameWidth="1514" frameHeight="1273" />
+<SubTexture name="cursed duo 1 up0000" x="0" y="5092" width="1514" height="1273" frameX="0" frameY="0" frameWidth="1514" frameHeight="1273" />
+<SubTexture name="cursed duo 1 up0001" x="1514" y="5092" width="1514" height="1273" frameX="0" frameY="0" frameWidth="1514" frameHeight="1273" />
+<SubTexture name="cursed duo 1 up0002" x="3028" y="5092" width="1514" height="1273" frameX="0" frameY="0" frameWidth="1514" frameHeight="1273" />
+<SubTexture name="cursed duo 1 up0003" x="4542" y="5092" width="1514" height="1273" frameX="0" frameY="0" frameWidth="1514" frameHeight="1273" />
+<SubTexture name="cursed duo 1 up0004" x="6056" y="5092" width="1514" height="1273" frameX="0" frameY="0" frameWidth="1514" frameHeight="1273" />
+<SubTexture name="cursed duo 1 right0000" x="0" y="6365" width="1514" height="1273" frameX="0" frameY="0" frameWidth="1514" frameHeight="1273" />
+<SubTexture name="cursed duo 1 right0001" x="1514" y="6365" width="1514" height="1273" frameX="0" frameY="0" frameWidth="1514" frameHeight="1273" />
+<SubTexture name="cursed duo 1 right0002" x="3028" y="6365" width="1514" height="1273" frameX="0" frameY="0" frameWidth="1514" frameHeight="1273" />
+<SubTexture name="cursed duo 1 right0003" x="4542" y="6365" width="1514" height="1273" frameX="0" frameY="0" frameWidth="1514" frameHeight="1273" />
+<SubTexture name="cursed duo 1 right0004" x="6056" y="6365" width="1514" height="1273" frameX="0" frameY="0" frameWidth="1514" frameHeight="1273" />
+</TextureAtlas>

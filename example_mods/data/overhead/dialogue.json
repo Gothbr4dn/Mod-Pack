@@ -1,0 +1,53 @@
+{
+	"dialogue": [
+		{
+			"expression": "angry",
+			"text": "I see how it is.",
+			"boxState": "normal",
+			"speed": 0.085,
+			"portrait": "whitty-talking"
+		},
+		{
+			"expression": "pissed",
+			"text": "brep bappity boop",
+			"boxState": "normal",
+			"speed": 0.045,
+			"portrait": "bf"
+		},
+		{
+			"expression": "angry",
+			"text": "You're really pushing my limits, dude.",
+			"boxState": "normal",
+			"speed": 0.045,
+			"portrait": "whitty-talking"
+		},
+		{
+			"expression": "pissed",
+			"text": "bip bep skoo de boop",
+			"boxState": "angry",
+			"speed": 0.02,
+			"portrait": "bf"
+		},
+		{
+			"expression": "angry",
+			"text": "Well how about you go die in a ditch instead.",
+			"boxState": "normal",
+			"speed": 0.08,
+			"portrait": "whitty-talking"
+		},
+		{
+			"expression": "pissed",
+			"text": "bepoobee skoop ",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "angry",
+			"text": "...Don't make me do this. ",
+			"boxState": "normal",
+			"speed": 0.08,
+			"portrait": "whitty-talking"
+		}
+	]
+}

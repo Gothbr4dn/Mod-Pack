@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Steven with shield.png"><SubTexture name="Steven with shield idle0000" x="0" y="0" width="486" height="546" frameX="0" frameY="0" frameWidth="486" frameHeight="546" />
+<SubTexture name="Steven with shield idle0001" x="486" y="0" width="486" height="546" frameX="0" frameY="0" frameWidth="486" frameHeight="546" />
+<SubTexture name="Steven with shield idle0002" x="972" y="0" width="486" height="546" frameX="0" frameY="0" frameWidth="486" frameHeight="546" />
+<SubTexture name="Steven with shield idle0003" x="1458" y="0" width="486" height="546" frameX="0" frameY="0" frameWidth="486" frameHeight="546" />
+<SubTexture name="Steven with shield idle0004" x="1944" y="0" width="486" height="546" frameX="0" frameY="0" frameWidth="486" frameHeight="546" />
+<SubTexture name="Steven with shield idle0005" x="0" y="546" width="486" height="546" frameX="0" frameY="0" frameWidth="486" frameHeight="546" />
+<SubTexture name="Steven with shield idle0006" x="486" y="546" width="486" height="546" frameX="0" frameY="0" frameWidth="486" frameHeight="546" />
+<SubTexture name="Steven with shield idle0007" x="972" y="546" width="486" height="546" frameX="0" frameY="0" frameWidth="486" frameHeight="546" />
+<SubTexture name="Steven with shield idle0008" x="1458" y="546" width="486" height="546" frameX="0" frameY="0" frameWidth="486" frameHeight="546" />
+<SubTexture name="Steven with shield idle0009" x="1944" y="546" width="486" height="546" frameX="0" frameY="0" frameWidth="486" frameHeight="546" />
+<SubTexture name="Steven with shield left0000" x="0" y="1092" width="486" height="546" frameX="0" frameY="0" frameWidth="486" frameHeight="546" />
+<SubTexture name="Steven with shield left0001" x="486" y="1092" width="486" height="546" frameX="0" frameY="0" frameWidth="486" frameHeight="546" />
+<SubTexture name="Steven with shield left0002" x="972" y="1092" width="486" height="546" frameX="0" frameY="0" frameWidth="486" frameHeight="546" />
+<SubTexture name="Steven with shield left0003" x="1458" y="1092" width="486" height="546" frameX="0" frameY="0" frameWidth="486" frameHeight="546" />
+<SubTexture name="Steven with shield left0004" x="1944" y="1092" width="486" height="546" frameX="0" frameY="0" frameWidth="486" frameHeight="546" />
+<SubTexture name="Steven with shield down0000" x="0" y="1638" width="486" height="546" frameX="0" frameY="0" frameWidth="486" frameHeight="546" />
+<SubTexture name="Steven with shield down0001" x="486" y="1638" width="486" height="546" frameX="0" frameY="0" frameWidth="486" frameHeight="546" />
+<SubTexture name="Steven with shield down0002" x="972" y="1638" width="486" height="546" frameX="0" frameY="0" frameWidth="486" frameHeight="546" />
+<SubTexture name="Steven with shield down0003" x="1458" y="1638" width="486" height="546" frameX="0" frameY="0" frameWidth="486" frameHeight="546" />
+<SubTexture name="Steven with shield down0004" x="1944" y="1638" width="486" height="546" frameX="0" frameY="0" frameWidth="486" frameHeight="546" />
+<SubTexture name="Steven with shield up0000" x="0" y="2184" width="486" height="546" frameX="0" frameY="0" frameWidth="486" frameHeight="546" />
+<SubTexture name="Steven with shield up0001" x="486" y="2184" width="486" height="546" frameX="0" frameY="0" frameWidth="486" frameHeight="546" />
+<SubTexture name="Steven with shield up0002" x="972" y="2184" width="486" height="546" frameX="0" frameY="0" frameWidth="486" frameHeight="546" />
+<SubTexture name="Steven with shield up0003" x="1458" y="2184" width="486" height="546" frameX="0" frameY="0" frameWidth="486" frameHeight="546" />
+<SubTexture name="Steven with shield up0004" x="1944" y="2184" width="486" height="546" frameX="0" frameY="0" frameWidth="486" frameHeight="546" />
+<SubTexture name="Steven with shield right0000" x="0" y="2730" width="486" height="546" frameX="0" frameY="0" frameWidth="486" frameHeight="546" />
+<SubTexture name="Steven with shield right0001" x="486" y="2730" width="486" height="546" frameX="0" frameY="0" frameWidth="486" frameHeight="546" />
+<SubTexture name="Steven with shield right0002" x="972" y="2730" width="486" height="546" frameX="0" frameY="0" frameWidth="486" frameHeight="546" />
+<SubTexture name="Steven with shield right0003" x="1458" y="2730" width="486" height="546" frameX="0" frameY="0" frameWidth="486" frameHeight="546" />
+<SubTexture name="Steven with shield right0004" x="1944" y="2730" width="486" height="546" frameX="0" frameY="0" frameWidth="486" frameHeight="546" />
+</TextureAtlas>

@@ -1,0 +1,232 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-loop",
+			"indices": [],
+			"name": "Sadmouse Up"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-loop",
+			"indices": [],
+			"name": "Sadmouse Left"
+		},
+		{
+			"offsets": [
+				-1,
+				35
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-loop",
+			"indices": [],
+			"name": "Sadmouse Down"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT-loop",
+			"indices": [],
+			"name": "Sadmouse Right"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle-loop",
+			"indices": [],
+			"name": "Sadmouse Idle"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Sadmouse Left"
+		},
+		{
+			"offsets": [
+				-1,
+				35
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Sadmouse Down"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Sadmouse Up"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Sadmouse Right"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Sadmouse Idle"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "",
+			"indices": [],
+			"name": ""
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				160
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "Sadmouse Jumpscare",
+			"indices": []
+		},
+				{
+			"loop": false,
+			"offsets": [
+				10,
+				160
+			],
+			"anim": "singUP-alt-loop",
+			"fps": 24,
+			"name": "Sadmouse Jumpscare",
+			"indices": []
+		},
+				{
+			"loop": false,
+			"offsets": [
+				10,
+				160
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "Sadmouse Jumpscare",
+			"indices": []
+		},
+				{
+			"loop": false,
+			"offsets": [
+				10,
+				160
+			],
+			"anim": "singDOWN-alt-loop",
+			"fps": 24,
+			"name": "Sadmouse Jumpscare",
+			"indices": []
+		},
+				{
+			"loop": false,
+			"offsets": [
+				10,
+				160
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "Sadmouse Jumpscare",
+			"indices": []
+		},
+				{
+			"loop": false,
+			"offsets": [
+				10,
+				160
+			],
+			"anim": "singLEFT-alt-loop",
+			"fps": 24,
+			"name": "Sadmouse Jumpscare",
+			"indices": []
+		},
+				{
+			"loop": false,
+			"offsets": [
+				10,
+				160
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "Sadmouse Jumpscare",
+			"indices": []
+		},
+				{
+			"loop": false,
+			"offsets": [
+				10,
+				160
+			],
+			"anim": "singRIGHT-alt-loop",
+			"fps": 24,
+			"name": "Sadmouse Jumpscare",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bipolarmouse_assets",
+	"position": [
+		-70,
+		20
+	],
+	"healthicon": "bipolarmouse",
+	"flip_x": false,
+	"healthbar_colors": [
+		20,
+		20,
+		20
+	],
+	"camera_position": [
+		-160,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

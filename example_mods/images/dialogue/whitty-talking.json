@@ -1,0 +1,50 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		180,
+		130
+	],
+	"scale": 1.25,
+	"animations": [
+		{
+			"loop_name": "Whitty Portrait Normal",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "Whitty Portrait Normal",
+			"anim": "normal",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "Whitty Portrait Agitated",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "Whitty Portrait Agitated",
+			"anim": "angry",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "Whitty Portrait Crazy",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "Whitty Portrait Crazy",
+			"anim": "mad",
+			"loop_offsets": [
+				3,
+				-2
+			]
+		}
+	],
+	"image": "whittyport"
+}

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="steven bubble sings and spinel.png"><SubTexture name="steven bubble sings and spinel idle0000" x="0" y="0" width="1323" height="1287" frameX="0" frameY="0" frameWidth="1323" frameHeight="1287" />
+<SubTexture name="steven bubble sings and spinel idle0001" x="1323" y="0" width="1323" height="1287" frameX="0" frameY="0" frameWidth="1323" frameHeight="1287" />
+<SubTexture name="steven bubble sings and spinel idle0002" x="2646" y="0" width="1323" height="1287" frameX="0" frameY="0" frameWidth="1323" frameHeight="1287" />
+<SubTexture name="steven bubble sings and spinel idle0003" x="3969" y="0" width="1323" height="1287" frameX="0" frameY="0" frameWidth="1323" frameHeight="1287" />
+<SubTexture name="steven bubble sings and spinel idle0004" x="5292" y="0" width="1323" height="1287" frameX="0" frameY="0" frameWidth="1323" frameHeight="1287" />
+<SubTexture name="steven bubble sings and spinel idle0005" x="0" y="1287" width="1323" height="1287" frameX="0" frameY="0" frameWidth="1323" frameHeight="1287" />
+<SubTexture name="steven bubble sings and spinel idle0006" x="1323" y="1287" width="1323" height="1287" frameX="0" frameY="0" frameWidth="1323" frameHeight="1287" />
+<SubTexture name="steven bubble sings and spinel idle0007" x="2646" y="1287" width="1323" height="1287" frameX="0" frameY="0" frameWidth="1323" frameHeight="1287" />
+<SubTexture name="steven bubble sings and spinel idle0008" x="3969" y="1287" width="1323" height="1287" frameX="0" frameY="0" frameWidth="1323" frameHeight="1287" />
+<SubTexture name="steven bubble sings and spinel idle0009" x="5292" y="1287" width="1323" height="1287" frameX="0" frameY="0" frameWidth="1323" frameHeight="1287" />
+<SubTexture name="steven bubble sings and spinel left0000" x="0" y="2574" width="1323" height="1287" frameX="0" frameY="0" frameWidth="1323" frameHeight="1287" />
+<SubTexture name="steven bubble sings and spinel left0001" x="1323" y="2574" width="1323" height="1287" frameX="0" frameY="0" frameWidth="1323" frameHeight="1287" />
+<SubTexture name="steven bubble sings and spinel left0002" x="2646" y="2574" width="1323" height="1287" frameX="0" frameY="0" frameWidth="1323" frameHeight="1287" />
+<SubTexture name="steven bubble sings and spinel left0003" x="3969" y="2574" width="1323" height="1287" frameX="0" frameY="0" frameWidth="1323" frameHeight="1287" />
+<SubTexture name="steven bubble sings and spinel left0004" x="5292" y="2574" width="1323" height="1287" frameX="0" frameY="0" frameWidth="1323" frameHeight="1287" />
+<SubTexture name="steven bubble sings and spinel down0000" x="0" y="3861" width="1323" height="1287" frameX="0" frameY="0" frameWidth="1323" frameHeight="1287" />
+<SubTexture name="steven bubble sings and spinel down0001" x="1323" y="3861" width="1323" height="1287" frameX="0" frameY="0" frameWidth="1323" frameHeight="1287" />
+<SubTexture name="steven bubble sings and spinel down0002" x="2646" y="3861" width="1323" height="1287" frameX="0" frameY="0" frameWidth="1323" frameHeight="1287" />
+<SubTexture name="steven bubble sings and spinel down0003" x="3969" y="3861" width="1323" height="1287" frameX="0" frameY="0" frameWidth="1323" frameHeight="1287" />
+<SubTexture name="steven bubble sings and spinel down0004" x="5292" y="3861" width="1323" height="1287" frameX="0" frameY="0" frameWidth="1323" frameHeight="1287" />
+<SubTexture name="steven bubble sings and spinel up0000" x="0" y="5148" width="1323" height="1287" frameX="0" frameY="0" frameWidth="1323" frameHeight="1287" />
+<SubTexture name="steven bubble sings and spinel up0001" x="1323" y="5148" width="1323" height="1287" frameX="0" frameY="0" frameWidth="1323" frameHeight="1287" />
+<SubTexture name="steven bubble sings and spinel up0002" x="2646" y="5148" width="1323" height="1287" frameX="0" frameY="0" frameWidth="1323" frameHeight="1287" />
+<SubTexture name="steven bubble sings and spinel up0003" x="3969" y="5148" width="1323" height="1287" frameX="0" frameY="0" frameWidth="1323" frameHeight="1287" />
+<SubTexture name="steven bubble sings and spinel up0004" x="5292" y="5148" width="1323" height="1287" frameX="0" frameY="0" frameWidth="1323" frameHeight="1287" />
+<SubTexture name="steven bubble sings and spinel right0000" x="0" y="6435" width="1323" height="1287" frameX="0" frameY="0" frameWidth="1323" frameHeight="1287" />
+<SubTexture name="steven bubble sings and spinel right0001" x="1323" y="6435" width="1323" height="1287" frameX="0" frameY="0" frameWidth="1323" frameHeight="1287" />
+<SubTexture name="steven bubble sings and spinel right0002" x="2646" y="6435" width="1323" height="1287" frameX="0" frameY="0" frameWidth="1323" frameHeight="1287" />
+<SubTexture name="steven bubble sings and spinel right0003" x="3969" y="6435" width="1323" height="1287" frameX="0" frameY="0" frameWidth="1323" frameHeight="1287" />
+<SubTexture name="steven bubble sings and spinel right0004" x="5292" y="6435" width="1323" height="1287" frameX="0" frameY="0" frameWidth="1323" frameHeight="1287" />
+</TextureAtlas>

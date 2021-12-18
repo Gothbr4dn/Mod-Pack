@@ -1,0 +1,32 @@
+Zerge Clarence C. Guro
+Math
+3rd Quarter
+5.
+ACB = 44 deg
+OBA = 46 deg = OAB
+PAC = 69 deg
+
+CAB = CBA = OBA or OAB + [1/2(180-OBA-OAB-ACB)]
+CAB = CBA = OBA or OAB + [1/2(180-136)]
+CAB = CBA = OBA or OAB + [1/2(44)]
+CAB = CBA = OBA or OAB + 22
+CAB = CBA = 46 + 22
+CAB = CBA = 68 deg
+
+Triangle CAB (180) = ACB + CAB + CBA
+Triangle CAB (180) = 44 + 68 + 68
+Triangle CAB (180) = 180 deg (is equal and is a triangle)
+
+ABT = 180 (straight line angle) - CBA
+ABT = 180 - 68
+ABT = 112 deg
+
+TAB = 180 (straight line angle) - PAC - CAB
+TAB = 180 - 69 - 68
+TAB = 43 deg
+
+PTC = 180 (sum of all angles of a triangle) - ABT - TAB
+PTC = 180 - 112 - 43
+PTC = 25 deg
+
+6.

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Menu_Sadmouse.png">
+	<!-- Created with Adobe Animate version 21.0.9.42677 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Sadmouse Story0000" x="0" y="0" width="749" height="806"/>
+	<SubTexture name="Sadmouse Story0001" x="749" y="0" width="749" height="806"/>
+	<SubTexture name="Sadmouse Story0002" x="1498" y="0" width="749" height="806"/>
+	<SubTexture name="Sadmouse Story0003" x="2247" y="0" width="749" height="806"/>
+	<SubTexture name="Sadmouse Story0004" x="2996" y="0" width="749" height="806"/>
+	<SubTexture name="Sadmouse Story0005" x="0" y="806" width="749" height="806"/>
+	<SubTexture name="Sadmouse Story0006" x="749" y="806" width="749" height="806"/>
+	<SubTexture name="Sadmouse Story0007" x="1498" y="806" width="749" height="806"/>
+	<SubTexture name="Sadmouse Story0008" x="2247" y="806" width="749" height="806"/>
+	<SubTexture name="Sadmouse Story0009" x="2996" y="806" width="749" height="806"/>
+	<SubTexture name="Sadmouse Story0010" x="0" y="1612" width="749" height="806"/>
+	<SubTexture name="Sadmouse Story0011" x="749" y="1612" width="749" height="806"/>
+	<SubTexture name="Sadmouse Story0012" x="1498" y="1612" width="749" height="806"/>
+	<SubTexture name="Sadmouse Story0013" x="0" y="0" width="749" height="806"/>
+</TextureAtlas>

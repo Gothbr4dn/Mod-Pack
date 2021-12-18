@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "spinel sings and steven bubble idle",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "spinel sings and steven bubble left",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "spinel sings and steven bubble up",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "spinel sings and steven bubble down",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "spinel sings and steven bubble right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/spinel sings and steven bubble",
+	"position": [
+		-330,
+		-130
+	],
+	"healthicon": "pink-duo",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		155,
+		255
+	],
+	"camera_position": [
+		180,
+		380
+	],
+	"sing_duration": 6.1,
+	"scale": 0.6
+}

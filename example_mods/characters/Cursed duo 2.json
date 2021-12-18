@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "cursed duo 2 idle",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "cursed duo 2 left",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "cursed duo 2 up",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "cursed duo 2 down",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "cursed duo 2 right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/cursed duo 2",
+	"position": [
+		-270,
+		-140
+	],
+	"healthicon": "icon-crazed-duo",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		155,
+		255
+	],
+	"camera_position": [
+		140,
+		310
+	],
+	"sing_duration": 6.1,
+	"scale": 0.6
+}

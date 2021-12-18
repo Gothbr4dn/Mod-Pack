@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "only spinel sings and steven idle",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "only spinel sings and steven left",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "only spinel sings and steven up",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "only spinel sings and steven down",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "only spinel sings and steven right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/only spinel sings and steven",
+	"position": [
+		-210,
+		20
+	],
+	"healthicon": "normal-duo",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		115,
+		255
+	],
+	"camera_position": [
+		80,
+		360
+	],
+	"sing_duration": 6.1,
+	"scale": 0.6
+}

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Bubble shield steven idle"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Bubble shield steven left"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Bubble shield steven up"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Bubble shield steven down"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Bubble shield steven right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Bubble shield steven",
+	"position": [
+		-140,
+		-280
+	],
+	"healthicon": "steven-pink",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		115,
+		255
+	],
+	"camera_position": [
+		140,
+		370
+	],
+	"sing_duration": 6.1,
+	"scale": 0.6
+}

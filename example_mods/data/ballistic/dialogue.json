@@ -1,0 +1,39 @@
+{
+	"dialogue": [
+		{
+			"expression": "mad",
+			"text": "ENOUGH.",
+			"boxState": "normal",
+			"portrait": "whitty-talking",
+			"speed": 0.15
+		},
+		{
+			"expression": "mad",
+			"text": "THEY'VE TAKEN ALL I EVER HAD.",
+			"boxState": "normal",
+			"speed": 0.07,
+			"portrait": "whitty-talking"
+		},
+		{
+			"expression": "mad",
+			"text": "I'VE BEEN DOOMED TO AN ENDLESS CYCLE OF RUNNING AND HIDING FROM THINGS I CANNOT CONTROL.",
+			"boxState": "normal",
+			"speed": 0.045,
+			"portrait": "whitty-talking"
+		},
+		{
+			"expression": "mad",
+			"text": "CURSE YOU, CURSE YOU AND THE FILTH THAT BROUGHT YOU INTO THIS WORLD.",
+			"boxState": "angry",
+			"speed": 0.025,
+			"portrait": "whitty-talking"
+		},
+		{
+			"expression": "shocked",
+			"text": "baboop peebo...?",
+			"boxState": "normal",
+			"speed": 0.08,
+			"portrait": "bf"
+		}
+	]
+}

@@ -1,0 +1,29 @@
+{
+	"songs": [
+		[
+			"change",
+			[
+				255,
+				133,
+				253
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekCharacters": [
+		"menuthing",
+		"bf",
+		""
+	],
+	"storyName": "Steven",
+	"weekName": "Custom Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "suicide",
+	"startUnlocked": true
+}
