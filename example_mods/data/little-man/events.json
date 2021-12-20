@@ -1,0 +1,49 @@
+{
+	"song": {
+		"speed": 2.5,
+		"stage": "ronfunny",
+		"player1": "bf",
+		"player2": "smoll",
+		"player3": null,
+		"events": [
+			[
+				312936.802973978,
+				[
+					[
+						"Change Character",
+						"1",
+						"piss"
+					]
+				]
+			],
+			[
+				334014.869888475,
+				[
+					[
+						"Change Character",
+						"1",
+						"smoll"
+					]
+				]
+			],
+			[
+				411412.639405202,
+				[
+					[
+						"Change Character",
+						"1",
+						"ughman"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 269,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "little-man"
+	}
+}

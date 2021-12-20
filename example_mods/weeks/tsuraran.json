@@ -1,0 +1,31 @@
+{
+	"songs": [
+		[
+			"tsuraran fox",
+			"dumbidiot",
+			[
+				106,
+				53,
+				253
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "funny",
+	"weekName": "tsuraran",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

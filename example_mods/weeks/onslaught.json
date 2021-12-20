@@ -1,0 +1,49 @@
+{
+	"songs": [
+		[
+			"Ron",
+			"BRUH",
+			[
+				140,
+				255,
+				75
+			]
+		],
+		[
+			"Trouble",
+			"gloop",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"Onslaught",
+			"glitchedbob",
+			[
+				0,
+				0,
+				0
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "ONSLAUGHTWOO",
+	"difficulties": "",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "OH NO BOB'S ONSLAUGHT SCARY!!",
+	"weekName": "Onslaught",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

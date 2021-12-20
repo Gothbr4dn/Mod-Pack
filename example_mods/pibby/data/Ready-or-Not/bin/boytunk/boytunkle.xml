@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="boytunkle.png"><SubTexture name="boytunkle down0000" x="0" y="0" width="905" height="680" frameX="0" frameY="0" frameWidth="905" frameHeight="680" />
+<SubTexture name="boytunkle down0001" x="905" y="0" width="905" height="680" frameX="0" frameY="0" frameWidth="905" frameHeight="680" />
+<SubTexture name="boytunkle downm0000" x="1810" y="0" width="905" height="680" frameX="0" frameY="0" frameWidth="905" frameHeight="680" />
+<SubTexture name="boytunkle downm0001" x="2715" y="0" width="905" height="680" frameX="0" frameY="0" frameWidth="905" frameHeight="680" />
+<SubTexture name="boytunkle idle0000" x="3620" y="0" width="905" height="680" frameX="0" frameY="0" frameWidth="905" frameHeight="680" />
+<SubTexture name="boytunkle idle0001" x="0" y="680" width="905" height="680" frameX="0" frameY="0" frameWidth="905" frameHeight="680" />
+<SubTexture name="boytunkle idle0002" x="905" y="680" width="905" height="680" frameX="0" frameY="0" frameWidth="905" frameHeight="680" />
+<SubTexture name="boytunkle idle0003" x="1810" y="680" width="905" height="680" frameX="0" frameY="0" frameWidth="905" frameHeight="680" />
+<SubTexture name="boytunkle idle0004" x="2715" y="680" width="905" height="680" frameX="0" frameY="0" frameWidth="905" frameHeight="680" />
+<SubTexture name="boytunkle idle0005" x="3620" y="680" width="905" height="680" frameX="0" frameY="0" frameWidth="905" frameHeight="680" />
+<SubTexture name="boytunkle left0000" x="0" y="1360" width="905" height="680" frameX="0" frameY="0" frameWidth="905" frameHeight="680" />
+<SubTexture name="boytunkle left0001" x="905" y="1360" width="905" height="680" frameX="0" frameY="0" frameWidth="905" frameHeight="680" />
+<SubTexture name="boytunkle leftm0000" x="1810" y="1360" width="905" height="680" frameX="0" frameY="0" frameWidth="905" frameHeight="680" />
+<SubTexture name="boytunkle leftm0001" x="2715" y="1360" width="905" height="680" frameX="0" frameY="0" frameWidth="905" frameHeight="680" />
+<SubTexture name="boytunkle right0000" x="3620" y="1360" width="905" height="680" frameX="0" frameY="0" frameWidth="905" frameHeight="680" />
+<SubTexture name="boytunkle right0001" x="0" y="2040" width="905" height="680" frameX="0" frameY="0" frameWidth="905" frameHeight="680" />
+<SubTexture name="boytunkle rightm0000" x="905" y="2040" width="905" height="680" frameX="0" frameY="0" frameWidth="905" frameHeight="680" />
+<SubTexture name="boytunkle rightm0001" x="1810" y="2040" width="905" height="680" frameX="0" frameY="0" frameWidth="905" frameHeight="680" />
+<SubTexture name="boytunkle shoot0000" x="2715" y="2040" width="905" height="680" frameX="0" frameY="0" frameWidth="905" frameHeight="680" />
+<SubTexture name="boytunkle shoot0001" x="3620" y="2040" width="905" height="680" frameX="0" frameY="0" frameWidth="905" frameHeight="680" />
+<SubTexture name="boytunkle shoot0002" x="0" y="2720" width="905" height="680" frameX="0" frameY="0" frameWidth="905" frameHeight="680" />
+<SubTexture name="boytunkle shoot0003" x="905" y="2720" width="905" height="680" frameX="0" frameY="0" frameWidth="905" frameHeight="680" />
+<SubTexture name="boytunkle shoot0004" x="1810" y="2720" width="905" height="680" frameX="0" frameY="0" frameWidth="905" frameHeight="680" />
+<SubTexture name="boytunkle up0000" x="2715" y="2720" width="905" height="680" frameX="0" frameY="0" frameWidth="905" frameHeight="680" />
+<SubTexture name="boytunkle up0001" x="3620" y="2720" width="905" height="680" frameX="0" frameY="0" frameWidth="905" frameHeight="680" />
+<SubTexture name="boytunkle upm0000" x="0" y="3400" width="905" height="680" frameX="0" frameY="0" frameWidth="905" frameHeight="680" />
+<SubTexture name="boytunkle upm0001" x="905" y="3400" width="905" height="680" frameX="0" frameY="0" frameWidth="905" frameHeight="680" />
+</TextureAtlas>

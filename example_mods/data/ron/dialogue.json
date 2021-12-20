@@ -1,0 +1,95 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "gfbob",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "What the fuck was that?!?!?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "ron",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Heh, knew this day would come."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gfbob",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "And who are you supposed to be?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "ron",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Name's Ron sugartits, who's your little guy down here?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bfbruj",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Beep sko peep fart poopoo"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "ron",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "What's wrong with you? You lookin like a uuuhh umm you look like an uuuh you kinda look like an uhh ummm you kinda like an a unn uu uhh ummm wait you kinda uhhh hummnnn nnnnnnnnnnnnnnnn njjuefijo gjkfdjs fjdfeijo foijaefiowhhifjaiohfehwfhusu haohuioueouafoufouafou"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gfbob",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Look, I am really not sure what your 2 incher is doing out here but we really need to call some secret service or police with what we just saw."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "ron",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "SHUT THE HELL UP I hate women\\n(cool guy hate wemen)"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "ron",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I can do some COOL RAP!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "ron",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "If YOU can also cool rap I guess you guys can go through"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "ron",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "BUT hen my mod (vs ron) gets famous i'm going bacwk harder and less possible!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bfbruj",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "sggart fart beep bo"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "ron",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "what"
+		}
+	]
+}

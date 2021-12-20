@@ -1,0 +1,53 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "ron",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "*dead* (in a cool way)"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bfbruj",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Skoop doop po-"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bfbruj",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Beep?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gloopbob",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "___"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bfbruj",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bruh what the hell bro u Lookin like you have your ender pearl trades up"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gloopbob",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "End Of Dialogue"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bfshock",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "?"
+		}
+	]
+}

@@ -1,0 +1,49 @@
+{
+	"song": {
+		"speed": 2,
+		"stage": "ronfunny",
+		"player1": "bf",
+		"player2": "ron",
+		"player3": null,
+		"events": [
+			[
+				794.117647058824,
+				[
+					[
+						"iamge",
+						"sad",
+						"0.5"
+					]
+				]
+			],
+			[
+				2382.35294117647,
+				[
+					[
+						"Play Animation",
+						"ugh",
+						"ron"
+					]
+				]
+			],
+			[
+				2470.58823529412,
+				[
+					[
+						"Add Camera Zoom",
+						"1",
+						"0.05"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 170,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Ron"
+	}
+}

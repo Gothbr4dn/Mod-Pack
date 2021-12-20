@@ -1,0 +1,53 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "glitchedbob",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Look here you SICK FUCKING RAT."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "glitchedbob",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I looked on you as a fun joke for my own gain, instead somehow you come around anf FUCK it over."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "glitchedbob",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I am not letting go this easily."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "glitchedbob",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "New mechanics, new layout, new everything."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "glitchedbob",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Bitch."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bfbruj",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "you still kinda look like Dream."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "glitchedbob",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "___"
+		}
+	]
+}

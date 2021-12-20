@@ -1,0 +1,39 @@
+{
+	"storyName": "c0rrupt3d sp0ng3b0b",
+	"hideFreeplay": false,
+	"weekBackground": "none",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"bf",
+		""
+	],
+	"songs": [
+		[
+			"Ready Or not",
+			"spongenut",
+			[
+				215,
+				215,
+				100
+			]
+		],
+		[
+			"Here I come",
+			"spongenut",
+			[
+				215,
+				215,
+				100
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "CorruptSteven"
+}

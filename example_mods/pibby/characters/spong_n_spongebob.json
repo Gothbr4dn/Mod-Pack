@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				80,
+				-208
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "note sing left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				64,
+				-205
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "spooky sing right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				64,
+				-232
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "spooky DOWN note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				44,
+				-177
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "spooky UP NOTE"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				39,
+				-189
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "spooky dance idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				105,
+				-178
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "spongeleft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				105,
+				-178
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "spongeright",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				105,
+				-178
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "spongedown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				106,
+				-178
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "spongeup",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/spong_n_spongebob",
+	"position": [
+		0,
+		200
+	],
+	"healthicon": "spong-spongebob",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		51
+	],
+	"camera_position": [
+		-70,
+		120
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

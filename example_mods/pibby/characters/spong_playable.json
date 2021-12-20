@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				45,
+				-50
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "spooky DOWN note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				45,
+				-50
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "spooky UP NOTE"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				45,
+				-50
+			],
+			"anim": "idle",
+			"fps": 25,
+			"name": "spooky dance idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				45,
+				-50
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "spooky sing right"
+		},
+		{
+			"offsets": [
+				45,
+				-50
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "note sing left"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/spong_bruj",
+	"position": [
+		0,
+		200
+	],
+	"healthicon": "spong",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		102
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

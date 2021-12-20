@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-130,
+				-560
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "PizzasHere",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-130,
+				-560
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-130,
+				-560
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-130,
+				-560
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-130,
+				-560
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/PizzaMan",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "piss",
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		130,
+		540
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

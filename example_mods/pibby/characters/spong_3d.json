@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-26,
+				10
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "note sing left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-51,
+				-8
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "spooky sing right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				29,
+				-31
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "spooky DOWN note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-70,
+				51
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "spooky UP NOTE"
+		},
+		{
+			"offsets": [
+				-104,
+				-16
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "spooky dance idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/spong_3d",
+	"position": [
+		0,
+		200
+	],
+	"healthicon": "spong-3d",
+	"flip_x": false,
+	"healthbar_colors": [
+		218,
+		182,
+		72
+	],
+	"camera_position": [
+		110,
+		30
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

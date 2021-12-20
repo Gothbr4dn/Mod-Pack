@@ -1,6 +1,6 @@
 {
-	"name": "Name",
-	"description": "Description",
+	"name": "Bob's Onslaught",
+	"description": "BOB",
 	"restart":false,
 	"color": [170, 0, 255]
 }

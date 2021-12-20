@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-40,
+				-290
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle"
+		},
+		{
+			"offsets": [
+				70,
+				-310
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Sing Left"
+		},
+		{
+			"offsets": [
+				40,
+				-440
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Sing Down"
+		},
+		{
+			"offsets": [
+				20,
+				-240
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Sing Up"
+		},
+		{
+			"offsets": [
+				-110,
+				-320
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Sing Right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				50,
+				-330
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "Ugh",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/FunniUghMan",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "smolldude",
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		30,
+		250
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
