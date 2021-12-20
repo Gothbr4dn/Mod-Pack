@@ -1,0 +1,48 @@
+{
+	"storyName": "Your New Week",
+	"hideFreeplay": true,
+	"weekBackground": "",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"ugh",
+			"face",
+			[
+				0,
+				0,
+				0
+			]
+		],
+		[
+			"guns",
+			"face",
+			[
+				0,
+				0,
+				0
+			]
+		],
+		[
+			"stress",
+			"face",
+			[
+				0,
+				0,
+				0
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "Custom Week"
+}

@@ -1,0 +1,60 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "TABI",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "So We Finally Meet After 1 Year Of Hiding"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "*Shaking From Fear*"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "TABI",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Wait? Who Are YOU?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Beep Bop Skbeep"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "TABI",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "So You Already Started Dating Another Guy, Yet Another Victim Huh?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "TABI",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Listen Dude, This Is My Battle Not Yours Just Let Me End This All, Leave!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Beep Bop Dop Skbop"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "TABI",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You Do Realize That She Is Just Using You, Right?"
+		}
+	]
+}

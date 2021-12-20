@@ -1,0 +1,32 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "TABI",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "GH... How Do You Not Understand, That She Is Just Using You For Her Own Success?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "TABI",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "Like She Used Me Once, NOW LOOK WHO I AM, JUST A FLOATING SKULL WITH AN INVISIBLE BODY, I'VE LOST EVERYTHING!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Beb Bop Beb Bob Skbob Dop"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "TABI",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "This is your last chance to leave, I-I Won't Stop Until I GET MY HANDS ON THAT LITTLE BRAT, LEAVE NOW OR FACE THE CONSEQUENCES"
+		}
+	]
+}

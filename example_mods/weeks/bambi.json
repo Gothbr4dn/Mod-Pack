@@ -1,0 +1,30 @@
+{
+	"songs": [
+		[
+			"blocked",
+			"bambiRemake",
+			[
+				0,
+				200,
+				0
+			]
+		]
+	],
+	"hideFreeplay": true,
+	"weekBackground": "",
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"storyName": "vs bambi 1 song lol",
+	"weekName": "Custom Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

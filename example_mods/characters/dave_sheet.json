@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-140,
+				-311
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "Dave Idle"
+		},
+		{
+			"offsets": [
+				-112,
+				-305
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Dave Sing Left"
+		},
+		{
+			"offsets": [
+				-150,
+				-313
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Dave Sing Right"
+		},
+		{
+			"offsets": [
+				-122,
+				-277
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Dave Sing Up"
+		},
+		{
+			"offsets": [
+				-134,
+				-337
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Dave Sing Down"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/dave_sheet",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "dave_sheet",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		120,
+		255
+	],
+	"camera_position": [
+		20,
+		240
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

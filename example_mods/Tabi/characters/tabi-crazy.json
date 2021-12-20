@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				179,
+				-80
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "MadTabiDown"
+		},
+		{
+			"offsets": [
+				229,
+				80
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "MadTabiUp"
+		},
+		{
+			"offsets": [
+				200,
+				-33
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "MadTabiRight"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				200,
+				-20
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "MadTabiIdle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				200,
+				-20
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle-loop",
+			"loop": true,
+			"name": "MadTabiIdle"
+		},
+		{
+			"offsets": [
+				179,
+				-80
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN-loop",
+			"loop": true,
+			"name": "MadTabiDown"
+		},
+		{
+			"offsets": [
+				230,
+				80
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP-loop",
+			"loop": true,
+			"name": "MadTabiUp"
+		},
+		{
+			"offsets": [
+				200,
+				-35
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT-loop",
+			"loop": true,
+			"name": "MadTabiRight"
+		},
+		{
+			"offsets": [
+				360,
+				-20
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "MadTabiLeft"
+		},
+		{
+			"offsets": [
+				360,
+				-20
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT-loop",
+			"loop": true,
+			"name": "MadTabiLeft"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/MADTABI",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "icon_tabi2",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		155,
+		86
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

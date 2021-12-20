@@ -102,7 +102,10 @@ class CreditsState extends MusicBeatState
 			['Community discord',	'discord',	        "Everyone who helped is here",						    'https://discord.gg/uFdenzyhTq',	     'FFBB1B'],
 			['Rinc0_yt',			'Sonic',			"sonic exe psych engine port",						    'https://gamebanana.com/mods/339308',	 '3d85c6'],
 			['you',			        'YOU',			    "thanks for wasting you space on my mod",			    '',	                                     '4BE998'],
-			['johnny cat',			'Cat',			    "did a shit ton of work to make this on mac",           'https://jonnycat.itch.io',	             '000000']
+			['johnny cat',			'Cat',			    "did a shit ton of work to make this on mac",           'https://jonnycat.itch.io',	             '000000'],
+			[''],
+			["IRL friends"],
+			['CORY',			        'YOU',			    "emotinal support",			    'https://open.spotify.com/track/2YIDnkBfwbLMkt9rcugLdr?autoplay=true',	                                     '4BE998'],
 		];
 		
 		for(i in pisspoop){

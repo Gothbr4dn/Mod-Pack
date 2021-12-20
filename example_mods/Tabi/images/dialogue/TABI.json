@@ -1,0 +1,50 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		50,
+		-10
+	],
+	"scale": 1.2,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_offsets": [
+				-1,
+				-11
+			],
+			"loop_name": "Dad idle dance",
+			"idle_name": "Dad idle dance0013"
+		},
+		{
+			"loop_name": "Dad idle dance",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "Dad idle dance0013",
+			"anim": "idle",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "Dad idle dance",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "Dad idle dance0013",
+			"anim": "loop",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "TABI"
+}

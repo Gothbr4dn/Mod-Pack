@@ -1,0 +1,5 @@
+Hey!, well if you asked why dialogue doesn´t works, is for the next reasons:
+
+When i tried to add the cutscene (.mp4 file) then the dialogue, countdown shows when
+countdown starts, i tried to fix this 20 times, in one case dialogue shows but countdown
+never starts, if you fixed the script send dm to me on discord Neruuh#0408, enjoy!!

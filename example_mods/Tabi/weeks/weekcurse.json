@@ -1,0 +1,48 @@
+{
+	"storyName": "Curse",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"songs": [
+		[
+			"My Battle",
+			"icon_tabi",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Last Chance",
+			"icon_tabi",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Genocide",
+			"icon_tabi2",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"Tabi_Lines",
+		"bf",
+		"gf"
+	],
+	"weekName": "Vs. Tabi"
+}
