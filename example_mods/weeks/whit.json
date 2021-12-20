@@ -1,0 +1,49 @@
+{
+	"storyName": "whitty is back",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "W",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"lo-fight",
+			"whit",
+			[
+				60,
+				60,
+				80
+			]
+		],
+		[
+			"overhead",
+			"whit",
+			[
+				60,
+				60,
+				80
+			]
+		],
+		[
+			"ballistic",
+			"whitc",
+			[
+				255,
+				20,
+				20
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "whit"
+}

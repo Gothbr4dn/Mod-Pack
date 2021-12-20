@@ -24,3 +24,19 @@ end
 function onSkipDialogue(count)
 	-- triggered when you press Enter and skip a dialogue line that was still being typed, dialogue line starts with 1
 end
+
+
+function opponentNoteHit()
+    health = getProperty('health')
+    if getProperty('health') > 0.05 then
+        setProperty('health', health+ 0.03);
+    end
+end
+
+
+function BoyfriendNoteHit()
+    health = getProperty('health')
+    if getProperty('health') > 0.05 then
+        setProperty('health', health- 0.06);
+    end
+end

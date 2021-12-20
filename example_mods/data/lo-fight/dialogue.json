@@ -1,60 +1,60 @@
 {
 	"dialogue": [
 		{
-			"expression": "normal",
-			"text": "...Who-",
+			"speed": 0.1,
+			"portrait": "whittyport",
 			"boxState": "normal",
-			"speed": 0.11,
-			"portrait": "whitty-talking"
+			"expression": "talk",
+			"text": "Who"
 		},
 		{
-			"speed": 0.05,
+			"speed": 0.035,
 			"portrait": "bf",
 			"boxState": "normal",
-			"expression": "excited",
+			"expression": "talk",
 			"text": "beep boop"
 		},
 		{
 			"speed": 0.08,
-			"portrait": "whitty-talking",
+			"portrait": "whittyport",
 			"boxState": "normal",
-			"expression": "angry",
-			"text": "Oh... you two."
+			"expression": "talk",
+			"text": "oh you two."
+		},
+		{
+			"speed": 0.045,
+			"portrait": "whittyport",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Would both of you kindly leave me alone\\ni dont want anyone knowin im here."
+		},
+		{
+			"speed": 0.00500000000000001,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bip boop beep"
 		},
 		{
 			"speed": 0.04,
-			"portrait": "whitty-talking",
+			"portrait": "whittyport",
 			"boxState": "normal",
-			"expression": "normal",
-			"text": "Would both of you kindly leave me alone? I don't want anyone knowin' I'm here."
+			"expression": "talk",
+			"text": "....Listen, i aint lookin for trouble tonight,\\njust leave me alone and all will be cool"
 		},
 		{
-			"speed": 0.05,
-			"portrait": "bf",
-			"boxState": "normal",
-			"expression": "pissed",
-			"text": "bip boop beep "
-		},
-		{
-			"speed": 0.05,
-			"portrait": "whitty-talking",
-			"boxState": "normal",
-			"expression": "normal",
-			"text": "...Listen, I ain't lookin' for trouble tonight, just leave and all will be cool."
-		},
-		{
-			"speed": 0.05,
+			"speed": 0.04,
 			"portrait": "bf",
 			"boxState": "normal",
 			"expression": "talk",
-			"text": "beepo bap skeboop "
+			"text": "beepo bap skeboop"
 		},
 		{
-			"speed": 0.45,
-			"portrait": "whitty-talking",
+			"speed": 0.05,
+			"portrait": "whittyport",
 			"boxState": "normal",
 			"expression": "talk",
-			"text": "..."
+			"text": "...."
 		}
 	]
 }

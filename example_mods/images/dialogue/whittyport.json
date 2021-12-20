@@ -1,0 +1,50 @@
+{
+	"position": [
+		180,
+		110
+	],
+	"dialogue_pos": "left",
+	"scale": 1.4,
+	"image": "whittyPort",
+	"animations": [
+		{
+			"idle_offsets": [
+				-1,
+				-12
+			],
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "talk",
+			"idle_name": "Whitty Portrait Normal instance",
+			"loop_name": "Whitty Portrait Normal instance"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "Angy",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "Whitty Portrait Agitated instance",
+			"idle_name": "Whitty Portrait Agitated instance"
+		},
+		{
+			"loop_name": "Whitty Portrait Crazy instance 10000",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "hitty Portrait Crazy instance 10003",
+			"anim": "Crazy",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	]
+}
