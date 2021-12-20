@@ -98,10 +98,11 @@ class CreditsState extends MusicBeatState
 			['kawaisprite',			'kawaisprite',		"Composer of Friday Night Funkin'",						'https://twitter.com/kawaisprite',		'6475F3'],
 			[''],
 			["Mod Pack"],
-			['BushTrain460615',		'Bushtrain460615',	"Mod Pack Maker",					                    'https://bushtrain460615.itch.io',	    'F73838'],
-			['Community discord',	'discord',	        "Everyone who helped is here",						    'https://discord.gg/uFdenzyhTq',	    'FFBB1B'],
-			['Rinc0_yt',			'evilsk8r',			"sonic exe psych engine port",						    'https://gamebanana.com/mods/339308',	'53E52C'],
-			['you',			        'evilsk8r',			"played this mod",						                '',	                                    '53E52C']
+			['BushTrain460615',		'Bushtrain460615',	"Mod Pack Maker",					                    'https://bushtrain460615.itch.io',	     'e3b5ee'],
+			['Community discord',	'discord',	        "Everyone who helped is here",						    'https://discord.gg/uFdenzyhTq',	     'FFBB1B'],
+			['Rinc0_yt',			'Sonic',			"sonic exe psych engine port",						    'https://gamebanana.com/mods/339308',	 '3d85c6'],
+			['you',			        'YOU',			    "thanks for wasting you space on my mod",			    '',	                                     '4BE998'],
+			['johnny cat',			'Cat',			    "did a shit ton of work to make this on mac",           'https://jonnycat.itch.io',	             '000000']
 		];
 		
 		for(i in pisspoop){
