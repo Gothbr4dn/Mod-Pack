@@ -1,221 +1,153 @@
 {
 	"animations": [
 		{
-			"loop": false,
+			"loop": true,
 			"offsets": [
-				7,
-				19
+				0,
+				0
 			],
-			"anim": "singLEFTmiss",
+			"anim": "idle-loop",
 			"fps": 24,
-			"name": "BF NOTE LEFT MISS",
-			"indices": []
+			"name": "Dad idle dance",
+			"indices": [
+				10,
+				11,
+				12,
+				12
+			]
 		},
 		{
-			"loop": false,
+			"loop": true,
 			"offsets": [
-				-15,
-				-19
+				-9,
+				10
 			],
-			"anim": "singDOWNmiss",
+			"anim": "singLEFT-loop",
 			"fps": 24,
-			"name": "BF NOTE DOWN MISS",
-			"indices": []
+			"name": "Dad Sing Note LEFT",
+			"indices": [
+				12,
+				13,
+				14,
+				15
+			]
 		},
 		{
-			"loop": false,
+			"loop": true,
 			"offsets": [
-				-36,
+				0,
 				27
 			],
-			"anim": "singUPmiss",
+			"anim": "singRIGHT-loop",
 			"fps": 24,
-			"name": "BF NOTE UP MISS",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-44,
-				22
-			],
-			"anim": "singRIGHTmiss",
-			"fps": 24,
-			"name": "BF NOTE RIGHT MISS",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-3,
-				5
-			],
-			"anim": "hey",
-			"fps": 24,
-			"name": "BF HEY",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
+			"name": "Dad Sing Note RIGHT",
+			"indices": [
 				15,
+				16,
+				17,
 				18
-			],
-			"anim": "hurt",
-			"fps": 24,
-			"name": "BF hit",
-			"indices": []
+			]
 		},
 		{
 			"loop": true,
 			"offsets": [
-				-4,
-				0
+				-6,
+				50
 			],
-			"anim": "scared",
+			"anim": "singUP-loop",
 			"fps": 24,
-			"name": "BF idle shaking",
-			"indices": []
+			"name": "Dad Sing Note UP",
+			"indices": [
+				56,
+				57,
+				58,
+				59
+			]
+		},
+		{
+			"offsets": [
+				140,
+				-100
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "WhatYouKnowAboutRollingDownInTheDeep"
 		},
 		{
 			"loop": false,
 			"offsets": [
-				37,
-				11
-			],
-			"anim": "firstDeath",
-			"fps": 24,
-			"name": "BF dies",
-			"indices": []
-		},
-		{
-			"loop": true,
-			"offsets": [
-				37,
-				5
-			],
-			"anim": "deathLoop",
-			"fps": 24,
-			"name": "BF Dead Loop",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				37,
-				69
-			],
-			"anim": "deathConfirm",
-			"fps": 24,
-			"name": "BF Dead confirm",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-10,
-				-16
-			],
-			"anim": "dodge",
-			"fps": 24,
-			"name": "boyfriend dodge",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				294,
-				267
-			],
-			"anim": "attack",
-			"fps": 24,
-			"name": "boyfriend attack",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-40,
-				-40
-			],
-			"anim": "pre-attack",
-			"fps": 24,
-			"name": "bf pre attack",
-			"indices": []
-		},
-		{
-			"loop": true,
-			"offsets": [
-				-5,
-				0
-			],
-			"anim": "idle",
-			"fps": 24,
-			"name": "idle",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				5,
-				-6
+				-50,
+				51
 			],
 			"anim": "singLEFT",
 			"fps": 24,
-			"name": "left",
+			"name": "Tails LEFT",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				-10,
-				-50
+				-116,
+				9
 			],
 			"anim": "singDOWN",
 			"fps": 24,
-			"name": "down",
+			"name": "Tails DOWN",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				-29,
-				27
-			],
-			"anim": "singUP",
-			"fps": 24,
-			"name": "up",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-48,
-				-7
+				-130,
+				47
 			],
 			"anim": "singRIGHT",
 			"fps": 24,
-			"name": "right",
+			"name": "Tails RIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-105,
+				100
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Tails UP",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-129,
+				59
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Tails IDLE",
 			"indices": []
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/tails",
+	"image": "characters/Tails",
 	"position": [
-		0,
-		-100
+		-130,
+		290
 	],
-	"healthicon": "dumbidiot",
+	"healthicon": "Tails",
 	"flip_x": false,
 	"healthbar_colors": [
-		240,
-		240,
+		0,
+		20,
 		0
 	],
 	"camera_position": [
-		0,
-		0
+		-20,
+		10
 	],
-	"sing_duration": 4,
-	"scale": 0.8
+	"sing_duration": 6.1,
+	"scale": 1.1
 }

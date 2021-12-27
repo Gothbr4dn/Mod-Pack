@@ -1,4 +1,20 @@
 {
+	"storyName": "Extra Week!",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
 	"songs": [
 		[
 			"Cycles",
@@ -11,11 +27,20 @@
 		],
 		[
 			"Sunshine",
-			"",
+			"TailsDoll",
 			[
-				146,
-				113,
-				253
+				255,
+				135,
+				0
+			]
+		],
+		[
+			"black-sun",
+			"EXE",
+			[
+				0,
+				0,
+				0
 			]
 		],
 		[
@@ -33,7 +58,7 @@
 			[
 				0,
 				0,
-				155
+				255
 			]
 		],
 		[
@@ -42,25 +67,27 @@
 			[
 				0,
 				0,
-				175
+				115
+			]
+		],
+		[
+			"pizza",
+			"PizzaMan",
+			[
+				40,
+				20,
+				0
+			]
+		],
+		[
+			"Razencro",
+			"LordX",
+			[
+				20,
+				60,
+				133
 			]
 		]
 	],
-	"hideFreeplay": false,
-	"weekBackground": "stage",
-	"weekCharacters": [
-		"dad",
-		"bf",
-		"gf"
-	],
-	"storyName": "Extra Week!",
-	"weekName": "Extra Week!",
-	"freeplayColor": [
-		146,
-		113,
-		253
-	],
-	"hideStoryMode": true,
-	"weekBefore": "tutorial",
-	"startUnlocked": true
+	"weekName": "Extra Week!"
 }

@@ -1,145 +1,145 @@
 {
 	"animations": [
 		{
-			"loop": true,
 			"offsets": [
 				0,
 				0
 			],
-			"anim": "idle-loop",
+			"loop": true,
 			"fps": 24,
-			"name": "Dad idle dance",
+			"anim": "idle-loop",
 			"indices": [
 				10,
 				11,
 				12,
 				12
-			]
+			],
+			"name": "Dad idle dance"
 		},
 		{
-			"loop": true,
 			"offsets": [
 				-9,
 				10
 			],
-			"anim": "singLEFT-loop",
+			"loop": true,
 			"fps": 24,
-			"name": "Dad Sing Note LEFT",
+			"anim": "singLEFT-loop",
 			"indices": [
 				12,
 				13,
 				14,
 				15
-			]
+			],
+			"name": "Dad Sing Note LEFT"
 		},
 		{
-			"loop": true,
 			"offsets": [
 				0,
 				27
 			],
-			"anim": "singRIGHT-loop",
+			"loop": true,
 			"fps": 24,
-			"name": "Dad Sing Note RIGHT",
+			"anim": "singRIGHT-loop",
 			"indices": [
 				15,
 				16,
 				17,
 				18
-			]
+			],
+			"name": "Dad Sing Note RIGHT"
 		},
 		{
-			"loop": true,
 			"offsets": [
 				-6,
 				50
 			],
-			"anim": "singUP-loop",
+			"loop": true,
 			"fps": 24,
-			"name": "Dad Sing Note UP",
+			"anim": "singUP-loop",
 			"indices": [
 				56,
 				57,
 				58,
 				59
-			]
+			],
+			"name": "Dad Sing Note UP"
 		},
 		{
+			"loop": false,
 			"offsets": [
 				140,
 				-100
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "hey",
-			"indices": [],
-			"name": "WhatYouKnowAboutRollingDownInTheDeep"
+			"fps": 24,
+			"name": "WhatYouKnowAboutRollingDownInTheDeep",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				30,
-				-72
+				-106
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singDOWN",
-			"indices": [],
-			"name": "NewPhase2Sonic Down"
+			"fps": 24,
+			"name": "NewPhase2Sonic Down",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				30,
 				-21
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "Laugh",
-			"indices": [],
-			"name": "NewPhase2Sonic Laugh"
+			"fps": 24,
+			"name": "NewPhase2Sonic Laugh",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				4,
 				-4
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singUP",
-			"indices": [],
-			"name": "NewPhase2Sonic Up"
+			"fps": 24,
+			"name": "NewPhase2Sonic Up",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				100,
 				-146
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singRIGHT",
-			"indices": [],
-			"name": "NewPhase2Sonic Right"
+			"fps": 24,
+			"name": "NewPhase2Sonic Right",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				75,
 				-126
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singLEFT",
-			"indices": [],
-			"name": "NewPhase2Sonic Left"
+			"fps": 24,
+			"name": "NewPhase2Sonic Left",
+			"indices": []
 		},
 		{
+			"loop": true,
 			"offsets": [
 				0,
 				0
 			],
-			"loop": true,
-			"fps": 24,
 			"anim": "idle",
-			"indices": [],
-			"name": "NewPhase2Sonic Idle"
+			"fps": 24,
+			"name": "NewPhase2Sonic Idle",
+			"indices": []
 		}
 	],
 	"no_antialiasing": true,
@@ -153,7 +153,7 @@
 	"healthbar_colors": [
 		0,
 		0,
-		255
+		129
 	],
 	"camera_position": [
 		-120,

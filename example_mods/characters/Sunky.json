@@ -1,202 +1,202 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [
 				-233,
 				-65
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "hey",
-			"indices": [],
-			"name": "BF HEY"
+			"fps": 24,
+			"name": "BF HEY",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				15,
 				18
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "hurt",
-			"indices": [],
-			"name": "BF hit"
+			"fps": 24,
+			"name": "BF hit",
+			"indices": []
 		},
 		{
+			"loop": true,
 			"offsets": [
 				-4,
 				0
 			],
-			"loop": true,
-			"fps": 24,
 			"anim": "scared",
-			"indices": [],
-			"name": "BF idle shaking"
+			"fps": 24,
+			"name": "BF idle shaking",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				37,
 				11
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "firstDeath",
-			"indices": [],
-			"name": "BF dies"
+			"fps": 24,
+			"name": "BF dies",
+			"indices": []
 		},
 		{
+			"loop": true,
 			"offsets": [
 				37,
 				5
 			],
-			"loop": true,
-			"fps": 24,
 			"anim": "deathLoop",
-			"indices": [],
-			"name": "BF Dead Loop"
+			"fps": 24,
+			"name": "BF Dead Loop",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				37,
 				69
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "deathConfirm",
-			"indices": [],
-			"name": "BF Dead confirm"
+			"fps": 24,
+			"name": "BF Dead confirm",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-10,
 				-16
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "dodge",
-			"indices": [],
-			"name": "boyfriend dodge"
+			"fps": 24,
+			"name": "boyfriend dodge",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				294,
 				267
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "attack",
-			"indices": [],
-			"name": "boyfriend attack"
+			"fps": 24,
+			"name": "boyfriend attack",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-40,
 				-40
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "pre-attack",
-			"indices": [],
-			"name": "bf pre attack"
+			"fps": 24,
+			"name": "bf pre attack",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-283,
 				-61
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singLEFTmiss",
-			"indices": [],
-			"name": "SSBF LEFTmiss"
+			"fps": 24,
+			"name": "SSBF LEFTmiss",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-275,
 				-49
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singDOWNmiss",
-			"indices": [],
-			"name": "SSBF DOWNmiss"
+			"fps": 24,
+			"name": "SSBF DOWNmiss",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-294,
 				-53
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singUPmiss",
-			"indices": [],
-			"name": "SSBF UPmiss"
+			"fps": 24,
+			"name": "SSBF UPmiss",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-274,
 				-48
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singRIGHTmiss",
-			"indices": [],
-			"name": "SSBF RIGHTmiss"
+			"fps": 24,
+			"name": "SSBF RIGHTmiss",
+			"indices": []
 		},
 		{
+			"loop": true,
 			"offsets": [
 				345,
 				70
 			],
-			"loop": true,
-			"fps": 24,
 			"anim": "idle",
-			"indices": [],
-			"name": "sunkyIDLE"
+			"fps": 24,
+			"name": "sunkyIDLE",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				351,
 				89
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singUP",
-			"indices": [],
-			"name": "sunkyUP"
+			"fps": 24,
+			"name": "sunkyUP",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				402,
 				83
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singRIGHT",
-			"indices": [],
-			"name": "sunkyRIGHT"
+			"fps": 24,
+			"name": "sunkyRIGHT",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				316,
 				84
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singLEFT",
-			"indices": [],
-			"name": "sunkyLEFT"
+			"fps": 24,
+			"name": "sunkyLEFT",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				300,
 				90
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singDOWN",
-			"indices": [],
-			"name": "sunkyDOWN"
+			"fps": 24,
+			"name": "sunkyDOWN",
+			"indices": []
 		}
 	],
 	"no_antialiasing": false,

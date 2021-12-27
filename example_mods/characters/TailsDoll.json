@@ -1,202 +1,202 @@
 {
 	"animations": [
 		{
-			"loop": false,
 			"offsets": [
 				-233,
 				-65
 			],
-			"anim": "hey",
+			"loop": false,
 			"fps": 24,
-			"name": "BF HEY",
-			"indices": []
+			"anim": "hey",
+			"indices": [],
+			"name": "BF HEY"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				15,
 				18
 			],
-			"anim": "hurt",
+			"loop": false,
 			"fps": 24,
-			"name": "BF hit",
-			"indices": []
+			"anim": "hurt",
+			"indices": [],
+			"name": "BF hit"
 		},
 		{
-			"loop": true,
 			"offsets": [
 				-4,
 				0
 			],
-			"anim": "scared",
+			"loop": true,
 			"fps": 24,
-			"name": "BF idle shaking",
-			"indices": []
+			"anim": "scared",
+			"indices": [],
+			"name": "BF idle shaking"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				37,
 				11
 			],
-			"anim": "firstDeath",
+			"loop": false,
 			"fps": 24,
-			"name": "BF dies",
-			"indices": []
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "BF dies"
 		},
 		{
-			"loop": true,
 			"offsets": [
 				37,
 				5
 			],
-			"anim": "deathLoop",
+			"loop": true,
 			"fps": 24,
-			"name": "BF Dead Loop",
-			"indices": []
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "BF Dead Loop"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				37,
 				69
 			],
-			"anim": "deathConfirm",
+			"loop": false,
 			"fps": 24,
-			"name": "BF Dead confirm",
-			"indices": []
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "BF Dead confirm"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-10,
 				-16
 			],
-			"anim": "dodge",
+			"loop": false,
 			"fps": 24,
-			"name": "boyfriend dodge",
-			"indices": []
+			"anim": "dodge",
+			"indices": [],
+			"name": "boyfriend dodge"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				294,
 				267
 			],
-			"anim": "attack",
+			"loop": false,
 			"fps": 24,
-			"name": "boyfriend attack",
-			"indices": []
+			"anim": "attack",
+			"indices": [],
+			"name": "boyfriend attack"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-40,
 				-40
 			],
-			"anim": "pre-attack",
+			"loop": false,
 			"fps": 24,
-			"name": "bf pre attack",
-			"indices": []
+			"anim": "pre-attack",
+			"indices": [],
+			"name": "bf pre attack"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-283,
 				-61
 			],
-			"anim": "singLEFTmiss",
+			"loop": false,
 			"fps": 24,
-			"name": "SSBF LEFTmiss",
-			"indices": []
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "SSBF LEFTmiss"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-275,
 				-49
 			],
-			"anim": "singDOWNmiss",
+			"loop": false,
 			"fps": 24,
-			"name": "SSBF DOWNmiss",
-			"indices": []
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "SSBF DOWNmiss"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-294,
 				-53
 			],
-			"anim": "singUPmiss",
+			"loop": false,
 			"fps": 24,
-			"name": "SSBF UPmiss",
-			"indices": []
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "SSBF UPmiss"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-274,
 				-48
 			],
-			"anim": "singRIGHTmiss",
+			"loop": false,
 			"fps": 24,
-			"name": "SSBF RIGHTmiss",
-			"indices": []
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "SSBF RIGHTmiss"
 		},
 		{
-			"loop": true,
 			"offsets": [
 				85,
 				50
 			],
-			"anim": "idle",
+			"loop": true,
 			"fps": 24,
-			"name": "TailsDoll IDLE",
-			"indices": []
+			"anim": "idle",
+			"indices": [],
+			"name": "TailsDoll IDLE"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				161,
 				49
 			],
-			"anim": "singUP",
+			"loop": false,
 			"fps": 24,
-			"name": "TailsDoll UP",
-			"indices": []
+			"anim": "singUP",
+			"indices": [],
+			"name": "TailsDoll UP"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				92,
 				13
 			],
-			"anim": "singRIGHT",
+			"loop": false,
 			"fps": 24,
-			"name": "TailsDoll RIGHT",
-			"indices": []
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "TailsDoll RIGHT"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				86,
 				4
 			],
-			"anim": "singLEFT",
+			"loop": false,
 			"fps": 24,
-			"name": "TailsDoll LEFT",
-			"indices": []
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "TailsDoll LEFT"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				0,
 				-20
 			],
-			"anim": "singDOWN",
+			"loop": false,
 			"fps": 24,
-			"name": "TailsDoll DOWN",
-			"indices": []
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "TailsDoll DOWN"
 		}
 	],
 	"no_antialiasing": false,
@@ -205,12 +205,12 @@
 		-160,
 		110
 	],
-	"healthicon": "test",
+	"healthicon": "TailsDoll",
 	"flip_x": false,
 	"healthbar_colors": [
-		49,
-		176,
-		209
+		255,
+		195,
+		0
 	],
 	"camera_position": [
 		-100,

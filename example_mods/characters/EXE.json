@@ -2,17 +2,6 @@
 	"animations": [
 		{
 			"offsets": [
-				-48,
-				-7
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singRIGHT",
-			"indices": [],
-			"name": "BF NOTE RIGHT0"
-		},
-		{
-			"offsets": [
 				7,
 				19
 			],
@@ -156,47 +145,58 @@
 		},
 		{
 			"offsets": [
-				-5,
-				0
+				15,
+				-96
 			],
-			"indices": [],
-			"fps": 24,
-			"anim": "idle",
 			"loop": false,
-			"name": "Exe Idle"
-		},
-		{
-			"offsets": [
-				315,
-				-6
-			],
-			"indices": [],
 			"fps": 24,
 			"anim": "singLEFT",
-			"loop": false,
+			"indices": [],
 			"name": "Exe left"
 		},
 		{
 			"offsets": [
-				270,
+				-20,
 				-240
 			],
-			"indices": [],
+			"loop": false,
 			"fps": 24,
 			"anim": "singDOWN",
-			"loop": false,
+			"indices": [],
 			"name": "Exe Down"
 		},
 		{
 			"offsets": [
-				61,
-				27
+				-109,
+				-62
 			],
-			"indices": [],
+			"loop": false,
 			"fps": 24,
 			"anim": "singUP",
-			"loop": false,
+			"indices": [],
 			"name": "Exe Up"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-155,
+				-110
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Exe Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-128,
+				-107
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Exe Right",
+			"indices": []
 		}
 	],
 	"no_antialiasing": false,
@@ -205,16 +205,16 @@
 		-460,
 		-300
 	],
-	"healthicon": "test",
-	"flip_x": true,
+	"healthicon": "EXE",
+	"flip_x": false,
 	"healthbar_colors": [
-		49,
-		176,
-		209
+		0,
+		0,
+		255
 	],
 	"camera_position": [
-		-200,
-		-290
+		80,
+		180
 	],
 	"sing_duration": 4,
 	"scale": 0.7

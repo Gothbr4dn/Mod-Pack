@@ -1,20 +1,14 @@
 {
 	"storyName": "Vs Sonic.EXE",
 	"hideFreeplay": false,
-	"weekBackground": "stage",
+	"weekBackground": "EXE",
+	"weekBefore": "tutorial",
 	"freeplayColor": [
 		146,
 		113,
 		253
 	],
-	"weekBefore": "tutorial",
 	"startUnlocked": true,
-	"hideStoryMode": false,
-	"weekCharacters": [
-		"dad",
-		"bf",
-		"gf"
-	],
 	"songs": [
 		[
 			"Too-Slow",
@@ -43,6 +37,12 @@
 				0
 			]
 		]
+	],
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"dadtrans",
+		"bftrans",
+		"gftrans"
 	],
 	"weekName": "Vs Exetior"
 }
